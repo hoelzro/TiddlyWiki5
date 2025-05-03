@@ -1,0 +1,13 @@
+{
+  "directories": [{
+    "path": "./",
+    "isTiddlerFile": true,
+    "fields": {
+      "title": {
+        "source": "basename",
+        "prefix": "$:/plugins/hoelzro/example-plugin/"
+      },
+      "modified": { "source": "modified" }
+    }
+  }]
+}
